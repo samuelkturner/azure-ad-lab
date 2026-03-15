@@ -1,5 +1,3 @@
-# azure-ad-lab
- Cloud Based Active Directory &amp; User Management
 # Cloud-Based Active Directory & User Management Lab (Azure)
 
 ![Active Directory Lab](https://i.imgur.com/placeholder.jpg)
