@@ -1,6 +1,7 @@
 # Cloud-Based Active Directory & User Management Lab (Azure)
 
-"C:\Users\turne_03u\Pictures\Azure-Cloud-AD Architecture DIagram.png"
+![Architecture Diagram]
+("C:\Users\turne_03u\Pictures\Azure-Cloud-AD Architecture DIagram.png")
 
 ## Technologies Used
 
